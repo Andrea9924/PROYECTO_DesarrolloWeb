@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e19613a7-7f6d-473f-82ec-ac3f1c48aa51" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/erp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/erp/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/erp/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/erp/mixins.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/erp/mixins.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/erp/views/category/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/erp/views/category/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/erp/views/client/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/erp/views/client/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/erp/views/dashboard/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/erp/views/dashboard/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/erp/views/product/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/erp/views/product/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/erp/views/sale/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/erp/views/sale/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/user/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/user/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/user/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/user/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/user/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/user/static/user/js/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/core/user/static/user/js/list.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/user/templates/user/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/user/templates/user/create.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/user/templates/user/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/user/templates/user/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/user/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/user/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/user/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/hzt/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/hzt/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/vtc/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/vtc/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +71,8 @@
       <workItem from="1635731335368" duration="12000" />
       <workItem from="1635731379210" duration="4045000" />
       <workItem from="1635741048845" duration="1458000" />
+      <workItem from="1635750212162" duration="75000" />
+      <workItem from="1635786905792" duration="703000" />
     </task>
     <servers />
   </component>
