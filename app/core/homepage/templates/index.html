@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>iPortfolio Bootstrap Template - Index</title>
+    <title>Super 24</title>
     <meta content="" name="descriptison">
     <meta content="" name="keywords">
 
@@ -44,10 +44,11 @@
     <div class="d-flex flex-column">
 
         <div class="profile">
-            <img src="{% static 'img/profile-img.jpg' %}" alt="" class="img-fluid rounded-circle">
-            <h1 class="text-light"><a href="index.html">Alex Smith</a></h1>
+            <img src="{% static 'img/logo.png' %}" alt="" class="img-fluid rounded-circle" >
+            <h1 class="text-light"><a href="index.html">Supermercado</a></h1>
             <div class="social-links mt-3 text-center">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+
                 <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
                 <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
                 <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
@@ -57,12 +58,12 @@
 
         <nav class="nav-menu">
             <ul>
-                <li class="active"><a href="index.html"><i class="bx bx-home"></i> <span>Home</span></a></li>
-                <li><a href="#about"><i class="bx bx-user"></i> <span>About</span></a></li>
-                <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
-                <li><a href="#portfolio"><i class="bx bx-book-content"></i> Portfolio</a></li>
-                <li><a href="#services"><i class="bx bx-server"></i> Services</a></li>
-                <li><a href="#contact"><i class="bx bx-envelope"></i> Contact</a></li>
+                <li class="active"><a href="index.html"><i class="bx bx-home"></i> <span>Inicio</span></a></li>
+                <li><a href="#about"><i class="bx bx-user"></i> <span>Acerca de</span></a></li>
+                <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resumen</span></a></li>
+                <li><a href="#portfolio"><i class="bx bx-book-content"></i> Portafolio</a></li>
+                <li><a href="#services"><i class="bx bx-server"></i> Nuestros servicios</a></li>
+                <li><a href="#contact"><i class="bx bx-envelope"></i> Contáctanos</a></li>
                 <li>
                     {% if request.user.is_authenticated %}
                         <a href="{% url 'erp:dashboard' %}">
@@ -70,7 +71,7 @@
                         </a>
                     {% else %}
                         <a href="{% url 'login' %}">
-                            <i class="bx bx-door-open"></i> Login
+                            <i class="bx bx-door-open"></i> Iniciar Sesión
                         </a>
                     {% endif %}
 
@@ -86,8 +87,8 @@
 <!-- ======= Hero Section ======= -->
 <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
-        <h1>Alex Smith</h1>
-        <p>I'm <span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span></p>
+        <h1>Supermercado 24hrs</h1>
+        <p>Les ofrecemos:  <span class="typed" data-typed-items=" Lácteos,Bebidas,Embutidos, Desinfectantes"></span></p>
     </div>
 </section><!-- End Hero -->
 
@@ -705,14 +706,14 @@
 <footer id="footer">
     <div class="container">
         <div class="copyright">
-            &copy; Copyright <strong><span>iPortfolio</span></strong>
+            &copy; Copyright <strong><span>SuperM</span></strong>
         </div>
         <div class="credits">
             <!-- All the links in the footer should remain intact. -->
             <!-- You can delete the links only if you purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
-            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
         </div>
     </div>
 </footer><!-- End  Footer -->

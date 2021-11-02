@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="e19613a7-7f6d-473f-82ec-ac3f1c48aa51" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/homepage/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/core/homepage/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/homepage/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/homepage/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/login/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/login/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/login/templates/login/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/core/login/templates/login/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/vtc/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/vtc/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/vtc/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/vtc/sidebar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +79,7 @@
       <workItem from="1635741048845" duration="1458000" />
       <workItem from="1635750212162" duration="75000" />
       <workItem from="1635786905792" duration="703000" />
+      <workItem from="1635813449052" duration="3813000" />
     </task>
     <servers />
   </component>
